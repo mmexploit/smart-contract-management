@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "generateUniqueId",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contract-management-receive-money/contract-management-receive-money/contracts/id-generator.sol": "UniqueIdGenerator"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contract-management-receive-money/contract-management-receive-money/contracts/id-generator.sol": {
+			"keccak256": "0x4018adfd06720e89597e928c98bad7930437968848bc9a14efbf663e9814eedd",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f99b042d9457b1cac8383cac1d47960cbe5c88e0583707c902f2c05558545c27",
+				"dweb:/ipfs/QmWTgJaRotFT7KjDVHqdK3W9uHXAogyHmW5Yba1nzL7xtD"
+			]
+		}
+	},
+	"version": 1
+}
